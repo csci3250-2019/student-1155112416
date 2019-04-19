@@ -26,6 +26,8 @@ Project Milestone #3 | N/A
 
 ## Screenshot
 
+![Screenshot](screenshot/screenshot.jpg)
+
 ## Author
 
 - **Bobby Chan** - [bobby2128](https://github.com/bobby2128)
